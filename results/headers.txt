@@ -1,0 +1,4 @@
+sequence (5).fasta:>NM_007294.4 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 1, mRNA
+sequence (6).fasta:>NP_009225.1 breast cancer type 1 susceptibility protein isoform 1 [Homo sapiens]
+LOCUS       NM_007294               7088 bp    mRNA    linear   PRI 10-SEP-2026
+DEFINITION  Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript
